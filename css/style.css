@@ -14,6 +14,7 @@ header{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-bottom: 0px;
 }
 
 /* Edit the css for the nav_links class to use flex to match our example.
